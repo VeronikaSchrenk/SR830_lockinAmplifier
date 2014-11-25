@@ -20,6 +20,7 @@ Library for connecting to the Stanford Lock-In Amplifier SR830. (for Linux/Windo
 
   ```git clone https://github.com/MatthiasTU/SR830_lockinAmplifier.git```
 
-#### How to install driver
+#### How to install required drivers
 
 #####Linux:
+
