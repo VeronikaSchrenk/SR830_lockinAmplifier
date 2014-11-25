@@ -8,7 +8,7 @@ Library for connecting to the Stanford Lock-In Amplifier SR830. (for Linux/Windo
 #####Linux:
 
 * Start Command Prompt
-* ```sudo apt-get install git-core```
+* ```sudo apt-get install git-core``` see http://git-scm.com/book/en/v2/Getting-Started-Installing-Git for further information
 * ```git clone https://github.com/MatthiasTU/SR830_lockinAmplifier.git```
 
 #####Windows:
