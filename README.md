@@ -9,7 +9,7 @@ Library for connecting to the Stanford Lock-In Amplifier SR830. (for Linux/Windo
 
 * Start Command Prompt
 
-* ```git clone ```
+* ```git clone https://github.com/MatthiasTU/SR830_lockinAmplifier.git```
 
 #####Windows:
 * Click the button "Download ZIP"
